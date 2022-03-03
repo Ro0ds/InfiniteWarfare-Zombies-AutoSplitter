@@ -11,4 +11,4 @@ Automatic autosplitter for IW Zombies.
 * Fix pause: not working/implemented yet
 * Test on all maps
 
-<b>I open to suggestions, feel free to hit me up on discord: <i>Digo#8569</i></b>
+<b>I'm open to suggestions, feel free to hit me up on discord: <i>Digo#8569</i></b>
